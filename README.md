@@ -51,7 +51,7 @@ async function main() {
 
   const response = await client.request({
     "command": "account_info",
-    "account": "rPT1Sjq2YGrBMTttX4GZHjKu9dyfzbpAYe",
+    "account": "rLSn6Z3T8uCxbcd1oxwfGQN1Fdn5CyGujK:61854392",
     "ledger_index": "validated"
   })
   console.log(response)
